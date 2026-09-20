@@ -1,25 +1,24 @@
-# CodeAlpha Internship Tasks
+# Python Projects
 
-This repository contains my Python projects completed as part of the CodeAlpha Internship.
+This repository contains Python projects developed for learning and practice.
 
-## Tasks
+## Projects
 
-### Task 1 - Hangman Game
+### Hangman Game
 A simple text-based Hangman game developed using Python.
 
-### Task 2 - Stock Portfolio Tracker
-A simple Python program that calculates total stock investment using predefined stock prices and user-entered quantities.
+### Stock Portfolio Tracker
+A Python program that calculates stock investment values using predefined stock prices and user-entered quantities.
 
-### Task 4 - Basic Chatbot
-A simple rule-based chatbot that responds to predefined user inputs such as hello, how are you, and bye.
+### Basic Chatbot
+A simple rule-based chatbot that responds to predefined user inputs.
 
 ## Technologies Used
 
 - Python
-- if-elif-else
 - Functions
 - Loops
+- if-elif-else
 - Dictionary
 - Input/Output
 - Basic Arithmetic
-- File Handling
